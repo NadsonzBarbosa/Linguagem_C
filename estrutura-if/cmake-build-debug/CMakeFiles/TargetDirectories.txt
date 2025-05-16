@@ -1,0 +1,3 @@
+/Users/nads/Documents/Linguagem-C/estrutura-if/cmake-build-debug/CMakeFiles/estrutura_if.dir
+/Users/nads/Documents/Linguagem-C/estrutura-if/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nads/Documents/Linguagem-C/estrutura-if/cmake-build-debug/CMakeFiles/rebuild_cache.dir

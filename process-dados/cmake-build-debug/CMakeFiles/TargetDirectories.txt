@@ -1,0 +1,3 @@
+/Users/nads/Documents/Linguagem-C/process-dados/cmake-build-debug/CMakeFiles/process_dados.dir
+/Users/nads/Documents/Linguagem-C/process-dados/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nads/Documents/Linguagem-C/process-dados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
